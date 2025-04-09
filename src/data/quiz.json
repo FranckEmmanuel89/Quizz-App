@@ -1,0 +1,5626 @@
+[
+
+    {
+        "id": "Prima-Media",
+        "img":"src/assets/PrimaMedia.PNG",
+        "name":"Prima Media",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Qual è la parte variabile del discorso che indica una persona, un luogo o una cosa?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Verbo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sostantivo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Aggettivo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Avverbio",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Quale di queste è una forma di scrittura narrativa?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Lettera",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Racconto",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Poesia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Riassunto",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Quale figura retorica usa un'espressione che non deve essere interpretata letteralmente?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Metafora",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Similitudine",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ossimoro",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Antitesi",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"Qual è il tema principale di un racconto?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "L'argomento centrale",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Il titolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La morale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Il genere",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"Quale civiltà antica costruì le piramidi?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Greci",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Romani",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Egizi",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Fenici",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Quale di queste figure storiche era un imperatore romano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Alessandro Magno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Giulio Cesare",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Carlo Magno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Napoleone",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Chi è considerato il 'padre della storia'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Platone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Eratostene",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Erodoto",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tucidide",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Quale evento segna la fine dell'Impero Romano d'Occidente?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La prima guerra mondiale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La scoperta dell'America",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La nascita di Cristo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La caduta di Roma nel 476 d.C.",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è la capitale d'Italia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Milano",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Napoli",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Roma",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Torino",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Qual è il fiume più lungo d'Italia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Po",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tevere",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Armo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Adige",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Che cos'è un ecosistema?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un tipo di paesaggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una specie di animale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un insieme di organismi e ambiente",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Una catena alimentare",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Qual è il continente in cui si trova il Camerun?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Asia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Africa",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Europa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "America",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Qual è la forma geometrica con tre lati?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Quadrato",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Rettangolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Triangolo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cerchio",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Qual è il perimetro di un quadrato con lato di 4 cm?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16 cm",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "8 cm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "12 cm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "20 cm",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Qual è la somma degli angoli interni di un triangolo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "90 gradi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "180 gradi",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "360 gradi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "270 gradi",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Quanti decalitri ci sono in 1 litro?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1000 daL",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "100 daL",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "10 daL",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "0,1 daL",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Qual è il sistema del corpo umano che permette il movimento?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sistema nervoso",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sistema muscolare",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Sistema circolatorio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Sistema digestivo",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Qual è il principale gas presente nell'atmosfera terrestre?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ossigeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Azoto",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Anidride carbonica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Idrogeno",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Cos'è la fotosintesi ?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Processo di respirazione delle piante",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Metodo di crescita delle piante",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Processo che permette alle piante di produrre cibo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tecnica di potatura",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Come si dice 'cane' in inglese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Cat",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bird",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Dog",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Fish",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Come si forma il passato del verbo 'to go'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Goes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Went",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Going",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Go",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Qual è la forma corretta del verbo 'to be' per 'I'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Am",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Is",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Are",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Be",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Quale delle seguenti frasi è corretta?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "She go to school",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "She goes to school",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "She goed to school",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "She going to school",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Quale di queste è un colore primario?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "verde",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Blu",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Viola",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Arancione",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Chi è un famoso pittore rinascimentale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Picasso",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Van Gogh",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Monet",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Leonardo da Vinci",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"Quale movimento artistico è noto per l'uso di colori vivaci e pennellate libere?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Cubismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Surrealismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Realismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Impressionismo",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"che colore si ottiene mescolando il blu e il giallo nella pittura?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "verde",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "viola",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "arrancione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "rosa",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Che cos'è Internet",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un dispositivo fisico",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un tipo di software",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Una rete di computer connessi ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un programma di scrittura",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"quale tra questi è un sistema operativo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Microsoft world",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Windows",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Google Chrome",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Apple",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Quale strumento usiamo per scrivere al computer?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mouse",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tastiera",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Monitor",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Stampante",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Seconda-Media",
+        "img":"src/assets/SecondaMedia.PNG",
+        "name":"Seconda Media",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Qual è il soggetto di una frase?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chi o cosa compie l'azione",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'azione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Il complemento",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La punteggiatura",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Quale dei seguenti è un genere letterario?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Musica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sport",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Matematica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Romanzo",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Quale autore ha scritto 'Il Decamerone'",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Dante Alighieri",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ludovico Ariosto",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Giovanni Boccaccio",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Petrarca",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"Chi fu il primo imperatore romano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Augusto",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Cesare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nerone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Traiano",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"In quale periodo storico si sviluppò l'Impero Romano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Medioevo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Età moderna",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rinascimento",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Antichità",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Quale evento segna la fine della Seconda Guerra Mondiale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La caduta di Berlino",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'inizio della Guerra Fredda",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La firma del Trattato di Versailles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "L'invasione della Polonia",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Qual è la capitale della svizzera",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Zurigo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ginevra",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Basilea",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Berna",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Che cosa sono i monti?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Grandi distese di acqua",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Desertificazioni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pianure",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Elevazioni del terreno",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è la catena montuosa più alta del mondo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Himalaya",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Alpi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Appennini",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Rockies",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Qual è l'area di un quadrato con lato di 4 cm?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16 cm²",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "8 cm²",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "18 cm²",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "20 cm²",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Quale frazione è equivalente a 1 / 2?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2 / 4",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1 / 3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3 / 4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4 / 5",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Qual è la somma di 73 e 98?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "172",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "171",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "173",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "174",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Quale organello è responsabile della produzione di energia nella cellula?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Nucleo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ribosoma",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mitocondrio",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Membrana",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Qual è l'unità di misura della forza?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Kilogrammo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Newton",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Metro",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Joule",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Che cos'è un ecosistema?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Solo un tipo di organismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un insieme di organismi e ambiente",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Una struttura di laboratorio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un programma informatico",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Come si dice 'gatto' in inglese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Dog",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bird",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Fish",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cat",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Qual è la funzione principale delle radici di una pianta?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Assorbire luce",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Assorbire acqua e nutrienti ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Produrre frutti",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Crescere in altezza",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Qual è il  Ph di una soluzione acida?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Superiore a 7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Inferiore a 7",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Uguale a 7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "0",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Quale civiltà è famosa per i suoi filosofi come Socrate e Platone?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Greca ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Romana",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Egizia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Babilonese",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Chi fu un famoso esploratore italiano del XV secolo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Vasco da Gama",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Magellano",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cristoforo Colombo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Marco Polo",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Quale delle seguenti è una capitale europea?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Barcellona",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Berlino",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Milano",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Amsterdam",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Qual è il sistema di organi che permette la respirazione?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sistema respiratorio",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sistema circolatorio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Sistema digerente",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Sistema nervoso",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Qual è il plurale di 'child'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Childs",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Childes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Childrens",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Children",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Quale strumento musicale è a corde?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chitarra",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pianoforte",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tromba",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Batteria",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Che cosa significa 'stretching'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Giocare a squadra",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Corsa veloce",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rimanere immobili",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Allungamento dei muscoli ",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"Quale fu il principale evento che segnò l'inizio della Rivoluzione Francese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La caduta della Bastiglia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La firma della Dichiarazione dei Diritti dell'Uomo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "L'esecuzione di Luigi XVI",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La formazione della Repubblica",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"Quale continente ha il maggior numero di paesi?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Asia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Africa",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Europa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "America",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Qual è il valore assoluto di -7?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "-14",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "0",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "7",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "14",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"Qual è il sinonimo di 'happy'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Joyful",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sadly",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Angry",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tired",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Qual è il significato di 'prospettiva' nell'arte?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un tipo di tela",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una tecnica per creare profondità",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un genere musicale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un movimento artistico",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Terza-Media",
+        "img":"src/assets/TerzaMedia.PNG",
+        "name":"Terza Media",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Qual è il tema principale di un testo narrativo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Il titolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La trama",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "L'autore",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La prefazione",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Cosa si intende per 'metafora'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un confronto diretto",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un'espressione figurata ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Una descrizione dettagliata",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un tipo di poesia",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Quale dei seguenti autori ha scritto 'I Promessi Sposi'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Alessandro Manzoni",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Dante Alighieri",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Giovanni Boccaccio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Italo Calvino",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"Qual è il genere di 'La Divina Commedia'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Poema",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Romanzo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Saggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Racconto",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"Qual è l'anno di inizio della Prima Guerra Mondiale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1912",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1918",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1914",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1920",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Chi fu il leader della Resistenza italiana durante la Seconda Guerra Mondiale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mussolini",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Garibaldi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pertini",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Parri",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Cosa rappresenta la Dichiarazione dei Diritti dell'Uomo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "I diritti delle donne",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "I diritti degli animali",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "I diritti fondamentali dell'individuo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "I diritti dei lavoratori",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Cosa avvenne nel 1945?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La caduta del Muro di Berlino",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'inizio della Guerra Fredda",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La scoperta dell'America",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La fine della Seconda Guerra Mondiale",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è il continente più popoloso?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Europa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Africa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Asia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "America",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Qual è la capitale dell'Ucraina",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Kiev",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Mosca",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Versavia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bucarest",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Qual è il paese più grande del mondo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Stati uniti",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Cina",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Russia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Europa",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Che cos'è un meridiano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Una linea di latitudine",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una linea di longitudine",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un tipo di mappa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un continente",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Che cos'è un numero primo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un numero che può essere diviso per 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un numero con più divisori",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un numero iniziando con 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " Un numero che può essere diviso solo per 1 e se stesso",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Qual è la radice quadrata di 81?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "9",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "11",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Quale figura ha quattro lati uguali?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Rettangolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Quadrato",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Triangolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cerchio",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Qual è il risultato di 16 x 7?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "124",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "142",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "122",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "112",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Qual è la funzione principale del cuore?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Respirare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Digestione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pompare il sangue",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Movimento",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Che cosa sono i mitocondri?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Organismi unicellulari",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Organelli cellulari",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tessuti",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Organi",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Qual è la principale fonte di energia per la Terra?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Il carbone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Il petrolio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Il sole",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Il vento",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Che cos'è la biodiversità?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La capacità di adattamento delle specie",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La produzione di ossigeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Il fatto di favorire gli alimenti bio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La varietà di organismi in un ecosistema",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Qual è il plurale di 'mouse'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mouses",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Mice",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mouse",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Mices",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Qual è il contrario di 'hot'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Cold",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Warm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cool",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Freezing",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Come si traduce 'scuola' in francese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Université",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ecole",
+                        "École": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Collège",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Lycée",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Qual è il contrario di 'grand'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Long",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Petit",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Gros",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Lourd",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Quale sport si gioca con una palla ovale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Basket",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pallavolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Rugby",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"Quale tecnica artistica usa colori ad acqua?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Olio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Acrilico",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pastello",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Acquerello",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"Cosa significa 'upload'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Caricare un file su Internet ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Scaricare un file",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cancellare un file",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Creare un file",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Qual è la distanza di una maratona?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "21 km",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "10 km",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "42 km",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "5 km",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"Che cosa si intende per 'phishing'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " Un tipo di pesce",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una tecnica per rubare informazioni sensibili",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un software di editing",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un tipo di rete",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Quale sport si pratica su un campo di dimensioni 60x40 metri?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Pallavolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Calcio a 5",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Basket",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tennis",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PrimoLiceo",
+        "img":"src/assets/PrimoLiceo.PNG",
+        "name":"Primo liceo",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Chi è l'autore de 'La Divina Commedia'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Giovanni Boccaccio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Dante Alighieri",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Alessandro Manzoni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " Italo Calvino",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Che cosa si intende per 'analisi del testo'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Scrivere un testo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Comprendere e interpretare un testo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Riassumere un testo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Leggere ad alta voce",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Qual è il genere di 'Il Decameron'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Racconti",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Romanzo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Saggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Poema",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"Che cosa caratterizza il sonetto?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Struttura fissa di 14 versi",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Versi liberi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Prosa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Rime incrociate",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"Qual è l'anno in cui è caduto l'Impero Romano d'Occidente?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "500 d.C.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "400 d.C.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "476 d.C.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "350 d.C.",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Chi fu Giulio Cesare?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un filosofo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un generale romano",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un poeta",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un imperatore greco",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Cosa significa 'Medioevo'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Età antica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Età moderna",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Periodo tra l'antichità e il Rinascimento",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Periodo di guerra",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Cosa avvenne nel 1492?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La fine della Guerra dei Cent'anni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'inizio della Rivoluzione francese",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La caduta dell'Impero Romano",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La scoperta dell'America",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è la causa principale della Prima Guerra Mondiale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La guerra fredda",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Rivoluzione industriale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nazionalismo e alleanze",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Crisi economica",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Cosa rappresentano le linee di latitudine?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Distanza nord-sud",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Distanza est-ovest",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Confini politici",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Montagne",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Quale fiume attraversa Roma?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Arno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Po",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tevere",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Adige",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Che cos'è un meridiano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Una linea di latitudine",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una linea di longitudine",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un tipo di mappa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un continente",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Qual è la formula per calcolare il perimetro di un triangolo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Base x Altezza",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Base - Altezza",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Somma dei lati",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Area / 2",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Qual è il risultato di 3 + 5 x 2?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "13",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "16",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "8",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Qual è la radice quadrata di 125",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "20",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "15",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "25",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "35",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Qual è la funzione principale dei mitocondri?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Trasporto di ossigeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sintesi proteica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Difesa dell'organismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Produzione di energia",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Qual è l'elemento chimico con simbolo O",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Oro",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ossigeno",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ozono",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Carbonio",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Qual è l'organo che prevvede alla produzione dell'urina",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Polmone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Rene",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Fegato",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cuore",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Che cosa si intende per 'dualismo' in filosofia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Teoria dell'unità",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Teoria del determinismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Teoria che separa corpo e anima",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Teoria dell'idealismo",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Che cos'è l'etica?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Studio delle scienze",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Studio della matematica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Studio dei comportamenti morali",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Studio della storia",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Chi è considerato il padre della filosofia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Platone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Socrate",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Aristotele",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cartesio",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Come si dice 'mi piace' in inglese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "I like it",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "I liking it",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "I like",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "I likes it",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Quale frase è corretta?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "He go to school every day",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "He goes to school every day",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "He going to school every day",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "He gone to school every day",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Come si traduce 'vorrei' in inglese?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "I will",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "I would like",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "I want",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "I like",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Qual è la principale caratteristica del movimento impressionista?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Uso di colori vivaci",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tecnica del chiaroscuro",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Astrazione totale",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Rappresentazione realistica",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"Qual è la principale preoccupazione della filosofia morale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La verità",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'esistenza",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La conoscenza",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Il bene e il male",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"Che cos'è l'esistenzialismo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Una scuola di pensiero che enfatizza l'esistenza umana e la libertà",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una teoria politica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un movimento artistico",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Una forma di religione",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Che cosa rappresenta l'acronimo 'USB'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Universal System Bus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "United Service Bus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Universal Serial Bus",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "User System Base",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"Che cos'è un 'firewall'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un tipo di virus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un sistema di protezione della rete",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un software di editing",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un dispositivo di archiviazione",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Che cos'è un 'algoritmo'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un programma di grafica",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una serie di istruzioni per risolvere un problema",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un dispositivo hardware",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un tipo di rete",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "id": "SecondoLiceo",
+        "img":"src/assets/SecondoLiceo.PNG",
+        "name":"Secondo Liceo",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Qual è il principale autore del Novecento italiano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Dante Alighieri",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Italo Calvino",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Alessandro Manzoni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Giovanni Vergao",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Quale genere letterario include opere come romanzi e racconti?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Poesia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Narrativa",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Saggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Drammaturgia",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Qual è la figura retorica che confronta due elementi usando 'come'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Similitudine",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Metafora",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ossimoro",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Personificazione",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"In quale periodo storico si colloca il Romanticismo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "XIX secolo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "XVIII secolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "XX secolo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "XV secolo",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"Chi fu il principale esponente dell'Illuminismo in Francia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Rousseau",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Montesquieu",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Voltaire",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Diderot",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Quale paese ha vissuto la Rivoluzione Industriale prima degli altri?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Francia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Gran Bretagna",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Italia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Germania",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Quale fu l'ideatore della teoria dell'evoluzione?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Isaac Newton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Albert Einstein",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Charles Darwin",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Louis Pasteur",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Quale movimento politico nacque in Europa dopo la Prima Guerra Mondiale?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Liberalismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Socialismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Comunismo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Fascismo",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è il continente con il maggior numero di abitanti?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Europa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Africa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Asia",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "America",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Qual è la capitale della Spagna?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Madrid",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Berlino",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Parigi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Barcellona",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Che cos'è un fuso orario?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un'unità di misura della temperatura",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un sistema di coordinate",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Una divisione temporale della Terra",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un tipo di carta geografica",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Quale delle seguenti è una caratteristica del clima mediterraneo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Inverni rigidi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Estati calde e secche",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Temperature sempre basse",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Alta umidità",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Qual è la formula per calcolare l'area di un triangolo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "b ⋅ h",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2 ⋅ b",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "b ⋅ h / 2",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "b + h",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Qual è il valore di 2 elevato al cubo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "8",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "10",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Quale è il teorema che lega i lati di un triangolo rettangolo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Teorema di Euclide",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Teorema di Pitagora ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Teorema di Archimede",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "270 gradi",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Qual è la soluzione dell'equazione x - 5 = 10?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "-15",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "-5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "15",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Quale organello è considerato il 'centro di controllo' della cellula?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitocondrio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ribosoma",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Membrana",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Qual è la formula chimica dell'acqua?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "O2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "H2",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Che cos'è la fotosintesi?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un processo che produce energia dalle piante",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un processo di respirazione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un metodo di crescita delle piante",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un tipo di fotosintesi artificiale",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Qual è il pH di una soluzione neutra?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "0",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "14",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "7",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Quale delle seguenti affermazioni è vera riguardo ai virus?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sono più grandi delle cellule",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sono sempre considerati esseri viventi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Non possono replicarsi senza un ospite",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hanno una struttura complessa",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Qual è la forma corretta del verbo 'to be' per 'he'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Is ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Am",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Are",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Be",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Qual è la forma corretta del past participle del verbo 'to eat'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Eated",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ate",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Eaten",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Eat",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Chi dipinse la 'Gioconda'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Michelangelo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Raffaello",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Caravaggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Leonardo da Vinci",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Quale artista è associato alla scultura del 'David'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Michelangelo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Donatello",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Bernin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Canova",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"Quale di queste attività è considerata aerobica?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Sollevamento pesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Yoga",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pilates",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Corsa",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"Che cos'è un software?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Un programma per computer",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Un dispositivo hardware",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Un tipo di rete",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Un'applicazione mobile",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Qual è la funzione principale di un sistema operativo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Stampare documenti",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Connettere a Internet",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Eseguire programmi",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Creare grafica",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"Quale autore ha scritto 'Il Gattopardo'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Giuseppe Tomasi di Lampedusa",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Umberto Eco",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mario Vargas Llosa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Italo Calvino",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Quale artista è noto per le sue opere surrealiste?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Claude Monet",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Salvador Dalí",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Vincent van Gogh",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Pablo Picasso",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Maturità",
+        "img":"src/assets/Maturità.PNG",
+        "name":"Maturità",
+        "domande": [
+            {
+                "id": 1,
+                "text":"Che cosa descrive la teoria cinetica dei gas?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La relazione tra temperatura e pressione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Il comportamento delle particelle di un gas in movimento",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La solidificazione dei gas",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La densità dei gas",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 2,
+                "text":"Qual è la reazione chimica della combustione del metano?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4 + H2O → O2 + CO",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "CH4 + O2 → CO2 + H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "CH4 + N2 → NH3 + H2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4 + CO2 → O2 + H2",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "text":"Che cosa è un isotopo?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Atomi dello stesso elemento con numero diverso di neutroni",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Atomi dello stesso elemento con numero diverso di protoni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Atomi di elementi diversi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Atomi che non reagiscono",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 4,
+                "text":"Qual è la legge di Boyle?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "A temperatura costante, la pressione di un gas è inversamente proporzionale al suo volume",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "A volume costante, la pressione di un gas è direttamente proporzionale alla temperatura",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " A temperatura costante, il volume di un gas è direttamente proporzionale alla pressione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Non esiste una legge di Boyle",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 5,
+                "text":"Che cosa sono i legami ionici",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Legami formati da condivisione di elettroni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Legami che non coinvolgono elettroni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Legami tra atomi con cariche opposte ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Legami tra gas nobili",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 6,
+                "text":"Che cosa è un catalizzatore?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " Una sostanza che aumenta la temperatura",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Una sostanza che accelera una reazione chimica senza essere consumata",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Una sostanza che rallenta una reazione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Una sostanza che non reagisce",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 7,
+                "text":"Che cosa afferma il principio di conservazione dell'energia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "L'energia aumenta nel tempo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'energia è sempre costante",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "L'energia non può essere creata né distrutta, solo trasformata",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "L'energia si disperde sempre",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "text":"Che cosa afferma il principio di conservazione dell'energia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "L'energia aumenta nel tempo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "L'energia è sempre costante",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "L'energia si disperde sempre",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "L'energia non può essere creata né distrutta, solo trasformata",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 9,
+                "text":"Qual è la formula per calcolare la pressione?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P = F ⋅ A",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "P = F + A",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "P = A / F",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "P = F - A",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 10,
+                "text":"Che cosa indica la velocità in un moto uniforme?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La variazione di posizione nel tempo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La variazione di energia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La variazione di massa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La variazione di forza",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 11,
+                "text":"Qual è l'effetto fotoelettrico?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La produzione di energia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La rifrazione della luce",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "L'emissione di elettroni da un materiale colpito da luce",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "L'assorbimento della luce",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 12,
+                "text":"Che cosa descrive la legge di Ohm?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La relazione tra forza e massa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La relazione tra tensione, corrente e resistenza",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La relazione tra temperatura e pressione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La relazione tra energia e potenza",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 13,
+                "text":"Qual è la differenza tra moto rettilineo uniforme e moto rettilineo uniformemente accelerato?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Il primo ha accelerazione costante, il secondo no",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Il primo è un moto circolare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Il primo ha velocità costante, il secondo velocità variabile",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Non c'è differenza",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 14,
+                "text":"Trova l'equazione della retta passante per i punti (1, 2) e (3, 6)",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "y = 2x + 0 ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "y = 2x",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "y = 2x + 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "y = x + 1",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 15,
+                "text":"Qual è la somma dei termini della progressione aritmetica 2, 5, 8, ..., fino al 10° termine?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "150",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "155",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "160",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "165",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 16,
+                "text":"Calcola la distanza tra i punti A(1, 2) e B(4, 6)",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "6",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 17,
+                "text":"Quale organo è responsabile della produzione di insulina?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Fegato",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pancreas",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Reni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cuore",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 18,
+                "text":"Qual è il ruolo del ribosoma nella cellula?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Produzione di energia",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Sintesi proteica",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Trasporto di ossigeno",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Degradazione dei rifiuti",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 19,
+                "text":"Qual è il significato di 'omeostasi'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Crescita cellulare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Divisione cellulare",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " Equilibrio interno dell'organismo",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Risposta immunitaria",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 20,
+                "text":"Qual è la principale differenza tra aerobico e anaerobico?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tipologia di sport",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Intensità",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Uso di ossigeno",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Durata",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 21,
+                "text":"Qual è la principale caratteristica del Barocco?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Linee semplici",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Uso di chiaroscuro e drammaticità",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Astrazione",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Minimalismo",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 22,
+                "text":"Lingua Straniera: Traduci in francese: 'Voglio mangiare.'",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Je veux manger",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Je veux mangerais",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Je veux mangé",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Je mange",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 23,
+                "text":"Chi fu il principale promotore della teoria dell'evoluzione?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Newton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Darwin",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Einstein",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Galileo",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 24,
+                "text":"Che cosa descrive la seconda legge di Newton?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "La forza è uguale alla massa per la velocità",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La forza è uguale alla massa per l'accelerazione",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La massa è uguale alla forza per il tempo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La forza è uguale all'energia per la distanza",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 25,
+                "text":"Chi è l'autore della 'Nascita di Venere'?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Leonardo da Vinci",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Michelangelo",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Caravaggio",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Botticelli",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 26,
+                "text":"In 'Il fu Mattia Pascal' di Luigi Pirandello, quale tema principale viene esplorato?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "L'amore impossibile",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La guerra",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La solitudine",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "L'identità e la relatività della verità",
+                        "isCorrect": true
+                    }
+                    
+                ]
+            },
+            {
+                "id": 27,
+                "text":"Quale autore è associato al concetto di 'intertestualità' nella letteratura contemporanea?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Umberto Eco",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Alessandro Manzoni",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Giovanni Verga",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Dante Alighieri",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 28,
+                "text":"Quali sono le caratteristiche distintive del romanzo storico in Italia?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "L'assenza di eventi storici",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "La narrazione in prima persona",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "La presenza di fatti storici verosimili e personaggi fittizi",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "La descrizione dettagliata della vita moderna",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 29,
+                "text":"Quale dei seguenti linguaggi è un linguaggio di programmazione orientato agli oggetti?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "HTML",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Java",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "CSS",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "SQL",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 30,
+                "text":"Qual è la funzione principale di un firewall?",
+                "opzioni": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Accelerare la connessione Internet",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bloccare accessi non autorizzati a una rete",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Eseguire backup automatici",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Ottimizzare le prestazioni del server",
+                        "isCorrect": false
+                    }
+                    
+                ]
+            }
+        ]
+    }
+
+]
