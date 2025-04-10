@@ -3,6 +3,7 @@ import { ref, watch } from "vue";
 import q from "../data/quiz.json";
 import Card from "../components/Card.vue"
 
+
 const search = ref('')
 
 const quizes = ref(q)

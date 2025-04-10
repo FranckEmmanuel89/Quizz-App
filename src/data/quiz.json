@@ -2,7 +2,7 @@
 
     {
         "id": "Prima-Media",
-        "img":"src/assets/PrimaMedia.PNG",
+        "img":"/assets/PrimaMedia.PNG",
         "name":"Prima Media",
         "domande": [
             {
@@ -939,7 +939,7 @@
     },
     {
         "id": "Seconda-Media",
-        "img":"src/assets/SecondaMedia.PNG",
+        "img":"/assets/SecondaMedia.PNG",
         "name":"Seconda Media",
         "domande": [
             {
@@ -1876,7 +1876,7 @@
     },
     {
         "id": "Terza-Media",
-        "img":"src/assets/TerzaMedia.PNG",
+        "img":"/assets/TerzaMedia.PNG",
         "name":"Terza Media",
         "domande": [
             {
@@ -2813,7 +2813,7 @@
     },
     {
         "id": "PrimoLiceo",
-        "img":"src/assets/PrimoLiceo.PNG",
+        "img":"/assets/PrimoLiceo.PNG",
         "name":"Primo liceo",
         "domande": [
             {
@@ -3750,7 +3750,7 @@
     },
     {
         "id": "SecondoLiceo",
-        "img":"src/assets/SecondoLiceo.PNG",
+        "img":"/assets/SecondoLiceo.PNG",
         "name":"Secondo Liceo",
         "domande": [
             {
@@ -4687,7 +4687,7 @@
     },
     {
         "id": "Maturità",
-        "img":"src/assets/Maturità.PNG",
+        "img":"/assets/Maturità.PNG",
         "name":"Maturità",
         "domande": [
             {
